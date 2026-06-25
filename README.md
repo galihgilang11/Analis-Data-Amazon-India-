@@ -1,4 +1,4 @@
-# Analisa Data Penjualan Amazon India 
+# Analysis of Amazon India Sales Data 
 
 # About the Project
 This project analyzes sales data for clothing items during the summer season, from April through June, on an e-commerce platform called Amazon. The purpose of this project is to identify which clothing items are purchased most frequently by consumers and which are purchased least frequently during the summer season in India, as well as to analyze monthly revenue during the summer season.
